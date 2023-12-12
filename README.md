@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Justice</h1>
 <h3 align="center">A passionate full-stack developer from the United States</h3>
 
-- 🔭 I’m currently working on [pyTicketsBot](https://github.com/Justice219/pyTicketsBot)
+- 🔭 I’m currently working on [pyTicketsBot](https://github.com/Justice219/pyTicketsBot), and [lyx](https://github.com/Justice219/lyx)
 
 - 🌱 I’m currently learning **Godot Engine, Love2D, RAGE Modding**
 
